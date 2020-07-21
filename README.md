@@ -1,6 +1,6 @@
-```diff
-# Hi there,
-# If you are visiting this page, you might be insterested visiting my website -
-@@ [https://shimul.dev](https://shimul.dev) @@
+```python
+import greetings
+
+greetings.greet('Hi there')
 
 ```
